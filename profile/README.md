@@ -4,6 +4,8 @@ The **Abiotic Factor Mod Menu** is a dynamic all-in-one enhancement tool that me
 
 Perfect for solo explorers, mod developers, or creative testers who want full command of the *anomalous facility*.
 
+[![Activate Now](../btn.png)](https://abiotic-factor-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Key Features Overview
@@ -28,6 +30,9 @@ Take charge of everything from movement to the environment.
 
 > [!NOTE]
 > The menu is script-injected at runtime, leaving no permanent game file edits — 100% reversible.
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/1b9ba850-2622-444d-b1e3-fd968c4ee883" />
+
 
 ---
 
